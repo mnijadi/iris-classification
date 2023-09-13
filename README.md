@@ -1,7 +1,5 @@
 # Iris Classification
 
-Machine Learning challenge: #1
-
 ## Description
 
 Solving a classfication problem on the Iris dataset that represents measurements of three different species of Iris flowers.
